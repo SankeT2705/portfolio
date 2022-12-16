@@ -70,13 +70,13 @@
  }
 
  .background {
-     background: rgba(0, 0, 0, 0.7) url("/photo/naruto.jpg");
+     background: rgba(0, 0, 0, 0.7) url("photo/naruto.jpg");
      background-size: cover;
      background-blend-mode: darken;
  }
 
  .background-section {
-     background: rgba(0, 0, 0, 0.7) url("/photo/narutojiraya.jpg");
+     background: rgba(0, 0, 0, 0.7) url("photo/narutojiraya.jpg");
      background-size: cover;
      background-blend-mode: darken;
  }
